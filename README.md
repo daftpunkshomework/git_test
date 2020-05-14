@@ -1,1 +1,1 @@
-Thi is Miguel's first git project!
+This is Miguel's first git project!
